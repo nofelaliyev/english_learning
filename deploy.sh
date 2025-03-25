@@ -2,7 +2,7 @@
 
 # Set your GitHub username
 GITHUB_USERNAME="your-github-username"
-REPO_NAME="english-learning-app"
+REPO_NAME="english-learning"
 TOKEN="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"
 REPO_URL="https://${TOKEN}@github.com/${GITHUB_USERNAME}/${REPO_NAME}.git"
 
